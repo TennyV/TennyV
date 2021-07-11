@@ -1,0 +1,21 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+   
+  string edibleItem;  // declaring all the variables needed
+    int itemNumber;
+    
+    
+    
+    while (cin >> edibleItem >> itemNumber) {  // user input goes here for our variables
+        if(edibleItem == "quit" && itemNumber == 0) break;  //if the edibleItem is quit and the itemNumber is 0 we break
+        cout << "Eating" << " " << itemNumber << " " << edibleItem << " ";
+        cout << "a day keeps you happy and healthy." << endl;  // outputs
+    }
+    
+    
+
+   return 0;
+}
