@@ -1,0 +1,33 @@
+ #include <iostream>
+#include <algorithm>
+#include <vector>
+using namespace std;
+
+void sortVector{
+    sort(v.begin(),v.end();
+}
+
+
+
+int main() {
+    vector<int> sortNumbers;
+    int firstNumber;
+    //int sortNumbers;
+    unsigned int i;
+    
+    cout << "Enter first INT: " << endl;
+    cin >> firstNumber;
+    
+    sortNumbers.resize(firstNumber);
+    
+    cout << "Enter" << firstNumber << "INT" << endl;
+    for (i = 0; i < sortNumbers.size(); ++i) {
+        cin >> sortNumbers.at(i);
+    }
+    sortVector(vector<int>& sortNumbers);
+    
+    
+    
+
+   return 0;
+}
