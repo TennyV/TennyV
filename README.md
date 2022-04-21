@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TennyV
-- 👀 I’m interested in learning programming languages.
-- 🌱 I’m currently learning JAVA.
+- 👀 I’m interested in raspberry PI
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me tenny.vongtip@gmail.com
 
